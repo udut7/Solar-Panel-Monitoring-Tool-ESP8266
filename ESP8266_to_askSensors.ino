@@ -93,6 +93,5 @@ void loop(){
         break;
     }
   }
-
-  delay(writeInterval );     // delay in msec
+  delay(writeInterval );
 }
